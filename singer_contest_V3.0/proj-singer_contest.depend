@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1592381902 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\main.cpp
+	<iostream>
+	<windows.h>
+	"Contest.h"
+	"Panel.h"
+
+1592270913 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\contest.cpp
+	"Contest.h"
+
+1592381902 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\singer.h
+	<vector>
+	<string>
+	<iostream>
+
+1592271741 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\singer.cpp
+	"Singer.h"
+
+1592381881 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\linkedlist.cpp
+	"linkedList.h"
+
+1592381142 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\linkedlist.h
+	<iostream>
+
+1592270463 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\panel.cpp
+	"Panel.h"
+
+1592048075 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\panel.h
+	<windows.h>
+	<string>
+	"Contest.h"
+	<iostream>
+
+1592271542 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\contest.h
+	<iostream>
+	<time.h>
+	<vector>
+	"linkedList.cpp"
+	"Singer.h"
+
+1592381881 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest\linkedlist.cpp
+	"linkedList.h"
+
+1592726919 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\contest.cpp
+	"Contest.h"
+
+1592728940 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\contest.h
+	<iostream>
+	<time.h>
+	<vector>
+	"linkedList.cpp"
+	"Singer.h"
+	"Date.h"
+
+1592729724 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\linkedlist.cpp
+	"linkedList.h"
+
+1592729390 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\linkedlist.h
+	<iostream>
+	<vector>
+	"Singer.h"
+	"Date.h"
+
+1592710325 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\singer.h
+	<vector>
+	<string>
+	<iostream>
+
+1592624036 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\panel.cpp
+	"Panel.h"
+
+1592559183 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\panel.h
+	<windows.h>
+	<string>
+	"Contest.h"
+	<iostream>
+
+1592710999 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\singer.cpp
+	"Singer.h"
+
+1592729724 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\linkedlist.cpp
+	"linkedList.h"
+
+1592731950 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	"ContestList.h"
+	"Panel.h"
+
+1592729981 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\contestlist.cpp
+	"ContestList.h"
+
+1592729451 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\contestlist.h
+	"Contest.h"
+
+1592731247 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\date.cpp
+	"Date.h"
+	<iostream>
+	<cstdlib>
+
+1592731597 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v2.0\date.h
+	<iostream>
+
+1592731247 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\date.cpp
+	"Date.h"
+	<iostream>
+	<cstdlib>
+
+1592731597 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\date.h
+	<iostream>
+
+1592729724 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\linkedlist.cpp
+	"linkedList.h"
+
+1593173203 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\linkedlist.h
+	<iostream>
+	<vector>
+	"Singer.h"
+	"Date.h"
+
+1593171580 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\singer.h
+	<vector>
+	<string>
+	<iostream>
+
+1593076863 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	"ContestList.h"
+	"Panel.h"
+
+1593168914 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\contestlist.h
+	"Contest.h"
+
+1593168713 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\contest.h
+	<iostream>
+	<time.h>
+	<vector>
+	"linkedList.cpp"
+	"Singer.h"
+	"Date.h"
+
+1592729724 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\linkedlist.cpp
+	"linkedList.h"
+
+1593169128 c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\panel.h
+	<windows.h>
+	<string>
+	"ContestList.h"
+	<iostream>
+
+1593400851 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\panel.cpp
+	"Panel.h"
+	<fstream>
+
+1593087128 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\singer.cpp
+	"Singer.h"
+
+1592913293 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\contestlist.cpp
+	"ContestList.h"
+
+1593075566 source:c:\users\82502\desktop\programming\c++2_wrk\proj-6.5\proj-singer_contest_v3.0\contest.cpp
+	"Contest.h"
+
